@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WindowingDemo</string>
+
+    <string name="authoritynotic">请在 设置->应用管理->当前应用名字->权限 当中给予应用权限,否则应用不能正常工作!</string>
+
+</resources>
